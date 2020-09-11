@@ -1796,7 +1796,7 @@ input, select, textarea {
 			font-weight: 600;
 			letter-spacing: 0.25em;
 			margin-bottom: 0;
-			text-transform: lowercase;
+			text-transform: uppercase;
 		}
 
 		body.is-ie header.major > :first-child:after {
@@ -3124,7 +3124,7 @@ input, select, textarea {
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
-		text-transform: lowercase;
+		text-transform: uppercase;
 		top: 0;
 		width: 100%;
 		z-index: 10000;
