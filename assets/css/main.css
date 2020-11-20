@@ -2078,7 +2078,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		border: solid 3px rgba(212, 212, 255, 0.1);
+		border: solid 0px rgba(212, 212, 255, 0.1);
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
@@ -2098,7 +2098,6 @@ input, select, textarea {
 		.box.style1 {
 			padding: 2em 2em 2em 2em;
 			text-align: center;
-			font-size: 0.8em;
 		}
 
 			.box.style1 h3 {
@@ -2166,7 +2165,7 @@ input, select, textarea {
 		}
 
 				.icon.featured {
-			color: #EA8A95;
+			color: #242943;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
@@ -2174,7 +2173,7 @@ input, select, textarea {
 		}
 
 			.icon.featured:before {
-				font-size: 2.5em;
+				font-size: 3em;
 			}
 
 
